@@ -5,4 +5,5 @@
 
 <h1> Hakkımda </h1>
 
-Discord üzerinde bot geliştirip ve bu botları youtube üzerinde izleyicilerim ile paylaşan sıradan birisiyim. Discord sunucuma katılmayı ve youtube kanalıma abone olmayı unutma!
+Discord üzerinde bot geliştirip ve bu botları youtube üzerinde izleyicilerim ile paylaşan sıradan birisiyim. 
+Discord sunucuma katılmayı ve youtube kanalıma abone olmayı unutma!
