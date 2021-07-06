@@ -8,3 +8,4 @@ Discord üzerinde bot geliştirip ve bu botları youtube üzerinde izleyicilerim
 Discord sunucuma katılmayı ve youtube kanalıma abone olmayı unutma!
 
 Türkiye'nin En Kaliteli ve Ücretsiz Kod Paylaşım Sitesi | https://botclub.net/
+https://discord.com/users/236173144300191754
