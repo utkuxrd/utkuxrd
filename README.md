@@ -16,4 +16,5 @@
     
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/236173144300191754)](https://discord.com/users/236173144300191754)
 
+https://github-readme-stats.vercel.app/api?username=UtkuJS&include_all_commits=true
 </p>
