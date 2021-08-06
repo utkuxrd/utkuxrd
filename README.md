@@ -15,5 +15,10 @@
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/UtkuJS)
     
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/236173144300191754)](https://discord.com/users/236173144300191754)
-[![Stats](https://github-readme-stats.vercel.app/api/?username=UtkuJS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-</p>
+
+<div >
+<h3>Github Stat</h3>
+   <a href="https://github.com/BetaWile" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/?username=UtkuJS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+   </a>
+</div>
