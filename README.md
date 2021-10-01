@@ -6,8 +6,6 @@
 
 - Yoksa hâlâ Bot Club ekibinin geliştirmekte olduğu [Bot Club](botclub.net)'e göz atmadın mı ?
 
-<img src="https://komarev.com/ghpvc/?username=UtkuJS&label=Ziyaretçi%20Sayısı&color=552b75" alt="UtkuJS" />
-
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/XYBqyEWfsC)
