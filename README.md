@@ -1,7 +1,7 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 🎉 Tekrardan herkese selam!
 
-- Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 17 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
+- Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 18 yaşındayım,öğrenmeye,gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır yazılım ile ilgileniyorum. [Bot Club](botclub.net) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
 
 - Yoksa hâlâ Bot Club ekibinin geliştirmekte olduğu [Bot Club](botclub.net)'e göz atmadın mı ?
