@@ -4,8 +4,6 @@
 - Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 18 yaşındayım,öğrenmeye,gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır yazılım ile ilgileniyorum. [Bot Club](botclub.net) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
 
-- Yoksa hâlâ Bot Club ekibinin geliştirmekte olduğu [Bot Club](botclub.net)'e göz atmadın mı ?
-
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/XYBqyEWfsC)
