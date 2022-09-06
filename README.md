@@ -1,7 +1,7 @@
-## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hello! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 🎉 ![](https://komarev.com/ghpvc/?username=utkujs)
 
-- Let me tell you briefly about myself. I'm utku aka [UtkuJS](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
+- Let me tell you briefly about myself. I'm utku [UtkuJS](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
 I have been dealing with software for about 1.5 years. I will always continue to improve myself!
 
 <h3>🌟 My Social Media Accounts!</h3>
