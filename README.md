@@ -11,6 +11,7 @@ I have been dealing with software for about 1.5 years. I will always continue to
 ![](https://komarev.com/ghpvc/?username=utkujs&&label=PROFILE+VIEWS&color=grey)
 <div >
 <h3>Github Stat</h3>
+ <div><img src="https://komarev.com/ghpvc/?username=BetaWile&&label=PROFILE+VIEWS&color=grey"/></div>
    <a href="https://github.com/utkujs" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/?username=UtkuJS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
    </a>
