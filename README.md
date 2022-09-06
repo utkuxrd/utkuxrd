@@ -1,12 +1,12 @@
 <img src="https://github.com/UtkuJS/UtkuJS/blob/main/banner.jpg">
 
 <h3>💻 Hello Visitor!</h3> 
-- Let me tell you briefly about myself. I'm utku [UtkuJS](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
+- Let me tell you briefly about myself. I'm utku [Utku](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
 I have been dealing with software for about 3 years. I will always continue to improve myself!
 
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/918232254763905064" target"blank_"><img src="https://img.shields.io/badge/discord acc%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/918232254763905064" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/c/UtkuJS" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://twitter.com/UtkuJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
