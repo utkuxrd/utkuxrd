@@ -8,10 +8,9 @@ I have been dealing with software for about 1.5 years. I will always continue to
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/918232254763905064/)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/UtkuJS)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/UtkuJS)
-![](https://komarev.com/ghpvc/?username=utkujs&&label=PROFILE+VIEWS&color=grey)
 <div >
 <h3>Github Stat</h3>
- <div><img src="https://komarev.com/ghpvc/?username=BetaWile&&label=PROFILE+VIEWS&color=grey"/></div>
+ <div><img src="https://komarev.com/ghpvc/?username=UtkuJS&&label=PROFILE+VIEWS&color=grey"/></div>
    <a href="https://github.com/utkujs" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/?username=UtkuJS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
    </a>
