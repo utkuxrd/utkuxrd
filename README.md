@@ -1,5 +1,5 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<h3>🎉 Yeni discord Hesabım utku#1000</h3>
+<h3>🎉 ![](https://komarev.com/ghpvc/?username=utkujs)</h3>
 
 - Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 18 yaşındayım,öğrenmeye,gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır yazılım ile ilgileniyorum. Her zaman da kendimi geliştirmeye devam edeceğim!
