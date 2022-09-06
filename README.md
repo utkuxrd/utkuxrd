@@ -1,10 +1,10 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 🎉 ![](https://komarev.com/ghpvc/?username=utkujs)
 
-- Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 18 yaşındayım,öğrenmeye,gelişmeye her zaman açık birisiyim.
-1.5 yıla yakındır yazılım ile ilgileniyorum. Her zaman da kendimi geliştirmeye devam edeceğim!
+- Let me tell you briefly about myself. I'm utku aka [UtkuJS](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
+I have been dealing with software for about 1.5 years. I will always continue to improve myself!
 
-<h3>🌟 Sosyal medya hesaplarım!</h3>
+<h3>🌟 My Social Media Accounts!</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/918232254763905064/)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/UtkuJS)
