@@ -1,5 +1,5 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-🎉 ![](https://komarev.com/ghpvc/?username=kedi)
+🎉 ![](https://komarev.com/ghpvc/?username=utkujs)
 
 - Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 18 yaşındayım,öğrenmeye,gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır yazılım ile ilgileniyorum. Her zaman da kendimi geliştirmeye devam edeceğim!
