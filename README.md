@@ -1,7 +1,7 @@
 <img src="https://github.com/UtkuJS/UtkuJS/blob/main/banner.jpg">
 
 <h3>💻 Hello Visitor!</h3> 
-- Let me tell you briefly about myself. I'm utku [Utku](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
+- Let me tell you briefly about myself. I'm Utku, 18 years old. I'm always open to learning and development.
 I have been dealing with software for about 3 years. I will always continue to improve myself!
 
 <div align="center">
