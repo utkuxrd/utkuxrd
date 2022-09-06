@@ -6,7 +6,7 @@ I have been dealing with software for about 3 years. I will always continue to i
 
 <h3>🌟 My Social Media Accounts!</h3>
 <p align="center">
-   <a href="[https://discord.com/users/298888568279924746](https://discord.com/users/918232254763905064/)" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="[https://discord.com/users/918232254763905064](https://discord.com/users/918232254763905064/)" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.youtube.com/c/UtkuJS" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
