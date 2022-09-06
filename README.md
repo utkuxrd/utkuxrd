@@ -1,5 +1,4 @@
-<img src="[[https://github.com/utkujs/utkujs/banner.jpg](https://cdn.discordapp.com/attachments/929438931374706730/1016717465981571104/14.jpg)]">
-
+<img src="https://github.com/UtkuJS/UtkuJS/blob/main/banner.jpg">
 ## Hello Visitor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - Let me tell you briefly about myself. I'm utku [UtkuJS](https://github.com/UtkuJS) I'm 18 years old, I'm always open to learning and development.
