@@ -7,8 +7,8 @@ I have been dealing with software for about 3 years. I will always continue to i
 <div align="center">
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/918232254763905064" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/c/utkuxrd" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="[/](https://www.youtube.com/@utkuxrd)" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/@utkuxrd" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/utkuxrd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
